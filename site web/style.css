@@ -1,0 +1,193 @@
+/* GENERAL */
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-size: 20px;
+	font-family: Arial,sans-serif;
+}
+h1
+{
+	font-size: 40px;
+	font-family: Arial,sans-serif;
+	color: #444;
+    text-align: center;
+}
+h2
+{
+    color: black;
+    font-size: 50px;
+}
+h3
+{
+    font-size: 20px;
+    color: #444;
+}
+h4
+{
+   font-size: 20px;
+    color: #444;
+}
+p
+{
+    line-height: 15px;
+    color: #777;
+    
+}
+.wrapper
+{
+	width: 950px;
+	height: 0 auto;
+	padding: 0 15px;
+}
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+ul
+{
+	list-style: none;
+}
+.clear
+{
+    clear: both;
+}
+
+footer
+{
+    height: 250px;
+    background-color: #444;
+}
+footer h1
+{
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+.copyright
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    color: #777;
+}
+
+
+
+
+/* HEADER */
+
+header
+{
+	height: 120px;
+}
+header h1
+{
+	float: left;
+	margin-top: 35px;
+    background-color: orange;
+}
+header nav
+{
+	float: right;
+    margin: 50px;
+    background-color: green;
+}
+header nav ul li
+{
+    float: left;
+	display: inline-block;
+}
+header nav ul li a
+{
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+/* accueil*/
+#logo
+{
+    height: 500px;
+    background: url('images/t%C3%A9l%C3%A9chargement.jpeg') top center;
+}
+#logo h2
+{
+    font-weight: normal;
+    color: #444;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px 0 40px 0;
+    margin-bottom: 15px;
+}
+.boutton
+{
+    display: block;
+    width: 120px;
+    height: 50px;
+    background: #444;
+    color: #fff;
+    font-size: 15px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/* champs */
+#champs ul
+{
+    margin: 50px;
+}
+#champs ul li
+{
+    float: left;
+    width: 300px;
+}
+#champs h4
+{
+    margin-bottom: 20px;
+}
+#champ1
+{
+    
+    margin: 20px;
+}
+#champ2
+{
+    
+    margin: 20px;
+}
+#champ p
+{
+    margin-bottom: 15px;
+}
+.agace1
+{
+    background: url("");
+}
+.agace2
+{
+    background: url("images/images5.jpeg") no-repeat top center;
+}
+#choix
+{
+    background: 
+}
+#adresse
+{
+    padding: 50px; 0;
+    text-align: center;
+}
+#adresse h3
+{
+    width: 400px;
+    text-transform: uppercase;
+    margin: 0 auto 20px auto;
+    border-bottom: 1px solid #02b8dd;
+    
+}
